@@ -255,7 +255,7 @@ function setup(argument) {
 
 class Player {
     constructor(chunk=[0,0]) {
-        this.name = 'Drew';
+        this.name = 'Matt';
         this.graphic = new PIXI.Graphics();
         this.graphic.zIndex = 1;
         this.width = 10;
