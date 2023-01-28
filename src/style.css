@@ -1,0 +1,19 @@
+html {
+	background:black;
+	color: white;
+	font-size: 13pt;
+}
+img {
+	image-rendering: crisp-edges;
+}
+.buttonImg {
+	width: 100px;
+	display: flex;
+}
+button {
+	align-content: center;
+	background-color: black;
+	color: white;
+	font-size: 14pt;
+	font-weight: bold;
+}
